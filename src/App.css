@@ -1,0 +1,48 @@
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  }
+  
+  a {
+    /* color: white; */
+    text-decoration: none;
+  }
+  
+  .home_page {
+    background-color: bisque;
+    padding: 20px 30px 100px;
+  }
+  
+  .contact {
+    background-color: cadetblue;
+    padding: 20px 30px 100px;
+  }
+  
+  .gallery {
+    background-color: cornflowerblue;
+    padding: 20px 30px 100px;
+  }
+  
+  .blog_posts {
+    background-color: darkgray;
+    padding: 20px 30px 100px;
+  }
+  
+  .active-link {
+    color: tomato;
+    text-decoration: underline;
+    font-size: 22px;
+  }
+  
+  .post {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-bottom: 1px solid tomato;
+  }
+  
